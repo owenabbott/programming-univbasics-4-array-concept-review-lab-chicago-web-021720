@@ -1,11 +1,11 @@
 def find_element_index(array, value_to_find)
-  return array.max()
+  
 end
 
 def find_max_value(array)
-  array.max()
+  return array.max()
 end
 
 def find_min_value(array)
-  array.min()
+  return array.min()
 end
